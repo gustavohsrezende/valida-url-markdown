@@ -1,7 +1,7 @@
 {
   "name": "valida-url-markdown",
   "version": "1.0.0",
-  "description": "Validador assincrono das URLs em textos Markdown",
+  "description": "Validador assincrono das URLs existentes em textos Markdown, verificando se existem ou se são validas",
   "keywords": ["markdown","URL"],
   "main": "index.js",
   "bin": {"":"./cli.js"},
