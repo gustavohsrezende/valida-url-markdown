@@ -12,15 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/gustavohsrezende/valida-url-markdown/blob/main/README.md"
   },
   "author": "Gustavo Rezende",
   "license": "ISC",
   "bugs": {
-    "url": "",
-    "email": ""
+    "url": "https://github.com/gustavohsrezende/valida-url-markdown"
   },
-  "homepage": "https://github.com/<seu -user>/<seu-repo>#readme",
+  "homepage": "https://github.com/gustavohsrezende/valida-url-markdown/blob/main/README.md",
   "dependencies": {
     "chalk": "^4.1.2",
     "node-fetch": "^2.6.5"
