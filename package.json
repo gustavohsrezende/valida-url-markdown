@@ -1,0 +1,31 @@
+{
+  "name": "valida-url-markdown",
+  "version": "1.0.0",
+  "description": "Validador assincrono das URLs em textos Markdown",
+  "keywords": ["markdown","URL"],
+  "main": "index.js",
+  "bin": {"":"./cli.js"},
+  "preferGlobal": true,  
+  "scripts": {
+    "test": "jest ./test",
+    "cli": "node cli.js ./src/text-example.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "author": "Gustavo Rezende",
+  "license": "ISC",
+  "bugs": {
+    "url": "",
+    "email": ""
+  },
+  "homepage": "https://github.com/<seu -user>/<seu-repo>#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "node-fetch": "^2.6.5"
+  },
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
